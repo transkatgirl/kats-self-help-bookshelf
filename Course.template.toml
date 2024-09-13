@@ -5,7 +5,7 @@ description = """Written by [author], license [license]
 Downloaded from [url] on [date]"""
 
 # [[books]]
-# label = "Volume 1"
+# label = "E-book"
 # file  = ""
 #
 # [[books.chapters]]
