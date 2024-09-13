@@ -1,4 +1,4 @@
-# Kat's Bookshelf: Self Help
+# Kat's Bookshelf: Self-Help
 A collection of self-help books turned into Portal courses.
 
 [Download this collection](https://github.com/transkatgirl/kats-self-help-bookshelf/releases)
