@@ -5,7 +5,7 @@ A collection of self-help books turned into Portal courses.
 
 ## Contents
 
-[Kat's Bookshelf](https://github.com/transkatgirl/kats-bookshelf/blob/main/README.md) is a small, hand-curated collection of courses which will slowly grow over time. This is an offshoot of the primary bookshelf, with the goal of providing a collection of useful self-improvement books.
+[Kat's Bookshelf](https://github.com/transkatgirl/kats-bookshelf/#readme) is a small, hand-curated collection of courses which will slowly grow over time. This is an offshoot of the primary bookshelf, with the goal of providing a collection of useful self-improvement books.
 
 All courses included in the bookshelf are made using free, open-access books. Links to the original books(s) are included in each course’s description.
 
