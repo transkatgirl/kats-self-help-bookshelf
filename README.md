@@ -1,5 +1,5 @@
 # Kat's Bookshelf: Self-Help
-A collection of self-help books turned into Portal courses.
+A collection of self-help books turned into [Portal](https://github.com/School-of-Life-Project/Portal-App) courses.
 
 [Download this collection](https://github.com/transkatgirl/kats-self-help-bookshelf/releases)
 
