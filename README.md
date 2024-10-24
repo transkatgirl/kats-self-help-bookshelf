@@ -15,8 +15,6 @@ If you would like to suggest improvements to the collection (such as book recomm
 
 The following books are included in this bookshelf:
 
-- [Rationality: From AI To Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies) by Eliezer Yudkowsky
-  - Note: See the [Rational Decision Making / LessWrong](https://github.com/transkatgirl/kats-sequence-bookshelf) bookshelf for related writings.
 - [undoing the pain](https://docs.google.com/document/d/1lR4NWLlCbBAxrXdRiVn82zC3iiF7fATPtVnPA2C1TwU/edit?usp=share_link) by Fiora Aeterna
 
 Additional books in this category will be added in the future.
